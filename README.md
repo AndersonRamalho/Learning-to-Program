@@ -15,6 +15,6 @@ Repositório onde vou colocar os desafios e aprendizados nos cursos da DIO
 - Pyautogui
 - numpy
 - matplotlip
-- panda
+- pandas
 - botcity
 - customtkinter
