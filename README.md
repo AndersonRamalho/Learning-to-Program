@@ -1,5 +1,5 @@
-# Repositório dos Desafios da DIO
-Repositório onde vou colocar os desafios e aprendizados nos cursos da DIO
+# Repositório de aprendizagem
+Repositório onde vou colocar os desafios e aprendizados nos cursos
 
 ### Linguagens:
 - Python
@@ -10,6 +10,7 @@ Repositório onde vou colocar os desafios e aprendizados nos cursos da DIO
 - GitHub
 - VSCode
 - MySQL
+- Antigravity
 
 ### Bibliotecas Python:
 - Pyautogui
