@@ -1,5 +1,5 @@
 # Repositório de aprendizagem
-Repositório onde vou colocar os desafios e aprendizados nos cursos
+Repositório onde coloco os desafios e aprendizados dos cursos
 
 ### Linguagens:
 - Python
